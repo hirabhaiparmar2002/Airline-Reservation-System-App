@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.161" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/drawable/ic_baseline_place_24.xml" value="0.2595" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/drawable/ic_launcher_background.xml" value="0.161" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_booking_details.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_change_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_editing_flight_update.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_editing_your_profile.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_flight.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_flight_booking_details.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_flight_delete.xml" value="0.2" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_flight_details.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_notice.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_notice_add.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_notice_delete.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_notice_edit.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_notice_editing.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_user_delete.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_user_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_admin_your_profile.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_forgot_new_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_forgot_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_notice_adapter.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_otp_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_book_seat.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_booking_details.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_booking_payment.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_booking_ticket.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_change_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_editing_your_profile.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_flight.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_registration.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_ticket.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_ticket_cancellation.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/activity_user_your_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/flight_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/notice_admin_item.xml" value="0.264" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/notice_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/ticket_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/layout/user_item.xml" value="0.4" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/menu/admin_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/menu/menu_flight.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/menu/menu_user.xml" value="0.20854700854700856" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/AirIndia/app/src/main/res/menu/user_menu.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

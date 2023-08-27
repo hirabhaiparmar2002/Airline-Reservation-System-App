@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="8dp"
+    app:cardCornerRadius="12dp"
+    android:layout_margin="16dp">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginVertical="6dp"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/flight_depart"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mehsana "
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="29sp"/>
+            <ImageView
+                android:id="@+id/flight_img"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginLeft="7dp"
+                android:src="@drawable/ic_baseline_local_airport_24">
+            </ImageView>
+            <TextView
+                android:id="@+id/flight_arrival"
+                android:layout_marginLeft="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Ahmedabad"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="29sp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Depart "
+                android:textColor="#7EAFA2A2"
+                android:textSize="30sp"/>
+            <TextView
+                android:id="@+id/flight_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="09 sep 2022"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:src="@drawable/ic_baseline_local_airport_24">
+            </TextView>
+            <TextView
+                android:layout_marginLeft="25dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Arrival"
+                android:textColor="#7EAFA2A2"
+                android:textSize="30sp"/>
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/flight_dep_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="08:30AM"
+                android:textStyle="normal"
+                android:textColor="@color/black"
+                android:textSize="22sp"/>
+            <TextView
+                android:id="@+id/flight_arrival_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="150dp"
+                android:text="10:30AM"
+                android:textStyle="normal"
+                android:textColor="#000000"
+                android:textSize="22sp"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginTop="5dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="FNO:"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="20sp"/>
+            <TextView
+                android:id="@+id/flight_fno"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1022"
+                android:textStyle="bold"
+                android:textColor="@color/black"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="$"
+                android:textStyle="bold"
+                android:layout_marginLeft="35dp"
+                android:textColor="#FF0000"
+                android:textSize="20sp"/>
+            <TextView
+                android:id="@+id/flight_price"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3700"
+                android:textStyle="bold"
+                android:textColor="#FF0000"
+                android:textSize="20sp"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Aval Seat:"
+                android:layout_marginLeft="35dp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="20sp"/>
+            <TextView
+                android:id="@+id/flight_seat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="30"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:textSize="20sp"/>
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

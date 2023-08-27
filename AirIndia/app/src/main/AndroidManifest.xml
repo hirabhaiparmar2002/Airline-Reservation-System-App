@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.airindia">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AirIndia"
+        tools:targetApi="31">
+        <activity
+            android:name=".AdminFlight_BookingDetails"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Booking_Details"
+            android:exported="false" />
+        <activity
+            android:name=".User_Ticket_Cancellation"
+            android:exported="false" />
+        <activity
+            android:name=".User_Booking_Payment"
+            android:exported="false" />
+        <activity
+            android:name=".User_Booking_Details"
+            android:exported="false" />
+        <activity
+            android:name=".User_Book_Seat"
+            android:exported="false" />
+        <activity
+            android:name=".User_Booking_Ticket"
+            android:exported="false" />
+        <activity
+            android:name=".NoticeAdapter"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".Admin_NoticeEditing"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Notice_Edit"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Notice_Add"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Notice_Delete"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Notice"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Editing_FlightUpdate"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Flight_Delete"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Flight_Details"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_User_delete"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_User_Details"
+            android:exported="false" />
+        <activity
+            android:name=".User_Editing_Your_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".User_Your_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Editing_Your_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Your_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_ChangePassword"
+            android:exported="false" />
+        <activity
+            android:name=".User_ChangePassword"
+            android:exported="false" />
+        <activity
+            android:name=".User_Ticket"
+            android:exported="false" />
+        <activity
+            android:name=".User_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Profile"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Flight"
+            android:exported="true" />
+        <activity
+            android:name=".User_flight"
+            android:exported="false" />
+        <activity
+            android:name=".Forgot_NewPassword"
+            android:exported="false" />
+        <activity
+            android:name=".Forgot_OTP"
+            android:exported="false" />
+        <activity
+            android:name=".Forgot_Password"
+            android:exported="false" />
+        <activity
+            android:name=".User_Registration"
+            android:exported="false" />
+        <activity
+            android:name=".Admin_Home"
+            android:exported="true" />
+        <activity
+            android:name=".User_Home"
+            android:exported="false" />
+        <activity
+            android:name=".OTP_Login"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
